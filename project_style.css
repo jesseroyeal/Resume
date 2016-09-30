@@ -1,0 +1,52 @@
+.line {
+	border-right:1px solid ;
+
+}
+td{
+	height:50px;
+	width:50px;
+}
+#name{
+
+	height:40px;
+	width:40px;
+	padding:40px 0px 40px 10px;
+}
+#header{
+
+	height:70px;
+	display:inline;
+	
+    
+}
+.stuff_1{
+
+	float:left;
+	margin-bottom: 60px;
+	
+}
+#me{
+	position:absolute;
+	margin-left: 60%;
+	margin-bottom: 100px;
+	height:200px;
+	width:200px;
+	border: 5px solid white;
+	-ms-trasform: rotate(7deg);
+	-webkit-trasform: rotate(7deg);
+	transform: rotate(-7deg);
+}
+
+#body{
+
+	height:500px;
+	padding:60px;
+	margin-top: 60px;
+}
+#page{
+
+	width:80%;
+	margin:auto;
+	margin-top: 30px;
+	background-color:#e6e6e6;
+}
